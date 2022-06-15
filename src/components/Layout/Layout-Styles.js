@@ -17,9 +17,6 @@ export const Footer = styled.footer`
   display: flex;
   justify-content: center;
   align-items: center;
-
-  span {
-    color: #FFF;
-    font-weight: bold;
-  }
+  color: #FFF;
+  font-weight: bold;
 `
